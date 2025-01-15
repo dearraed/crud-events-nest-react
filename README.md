@@ -20,7 +20,7 @@ Follow the steps below to set up and run the application on your local machine.
 ### Installation Steps
 **1. Clone the Repository**
   git clone <repository-url>
-cd crud-app
+cd crud-events-nest-react
 
 **2.Install Backend Dependencies**
 Run the following command to install the required backend dependencies:
