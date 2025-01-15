@@ -42,6 +42,8 @@ npm run start:together
 To execute tests for the project, run:
 npm run test
 
+**After window is open on the browser refresh till fake data is generated**
+
 
 
 
