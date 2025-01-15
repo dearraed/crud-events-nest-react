@@ -30,10 +30,11 @@ npm install
 Navigate to the client folder and install the React dependencies:
 
 cd client
+
 npm install
 
 ### Running the Application
-To run both the server and the React client simultaneously, use the following command:
+To run both the server and the React client simultaneously, use the following command: (under the root folder)
 
 npm run start:together
 
